@@ -1,5 +1,0 @@
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Data Source=localhost;Initial Catalog=ExampleASP;Integrated Security=True;"
-  }
-}
